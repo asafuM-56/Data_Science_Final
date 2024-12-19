@@ -22,3 +22,7 @@ This model predicts the succes or failure of the formation of zeolite using the 
 4. Crystallization conditions:
 - Crystallization temperature (°C)
 - Crystallization time (days)
+
+---
+The model is hosted on hugging face at the following link
+https://huggingface.co/spaces/asafuM/Data_Science_Final
